@@ -626,6 +626,7 @@ p5.prototype._onmousemove = function(e) {
  *   } else {
  *     value = 0;
  *   }
+ * return false;
  * }
  * </code>
  * </div>
